@@ -8,7 +8,7 @@ Talking about performance, my PPO-trained agent could complete 29/32 levels, whi
 
 For your information, PPO is the algorithm proposed by OpenAI and used for training OpenAI Five, which is the first AI to beat the world champions in an esports game. Specifically, The OpenAI Five dispatched a team of casters and ex-pros with MMR rankings in the 99.95th percentile of Dota 2 players in August 2018.
 
-<p align="center">
+<p align="left">
   <img src="demo/video-1-1.gif" width="200">
   <img src="demo/video-1-2.gif" width="200">
   <img src="demo/video-1-3.gif" width="200">
@@ -39,8 +39,7 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <img src="demo/video-7-4.gif" width="200"><br/>
   <img src="demo/video-8-1.gif" width="200">
   <img src="demo/video-8-2.gif" width="200">
-  <img src="demo/video-8-3.gif" width="200">
-  <img src="demo/video-8-4.gif" width="200"><br/>
+  <img src="demo/video-8-3.gif" width="200"><br/>
   <i>Sample results</i>
 </p>
 
