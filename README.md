@@ -9,38 +9,38 @@ Talking about performance, my PPO-trained agent could complete 29/32 levels, whi
 For your information, PPO is the algorithm proposed by OpenAI and used for training OpenAI Five, which is the first AI to beat the world champions in an esports game. Specifically, The OpenAI Five dispatched a team of casters and ex-pros with MMR rankings in the 99.95th percentile of Dota 2 players in August 2018.
 
 <p align="center">
-  <img src="demo/video-1-1.gif">
-  <img src="demo/video-1-2.gif">
-  <img src="demo/video-1-3.gif">
-  <img src="demo/video-1-4.gif"><br/>
-  <img src="demo/video-2-1.gif">
-  <img src="demo/video-2-2.gif">
-  <img src="demo/video-2-3.gif">
-  <img src="demo/video-2-4.gif"><br/>
-  <img src="demo/video-3-1.gif">
-  <img src="demo/video-3-2.gif">
-  <img src="demo/video-3-3.gif">
-  <img src="demo/video-3-4.gif"><br/>
-  <img src="demo/video-4-1.gif">
-  <img src="demo/video-4-2.gif">
-  <img src="demo/video-4-3.gif">
-  <img src="demo/video-4-4.gif"><br/>
-  <img src="demo/video-5-1.gif">
-  <img src="demo/video-5-2.gif">
-  <img src="demo/video-5-3.gif">
-  <img src="demo/video-5-4.gif"><br/>
-  <img src="demo/video-6-1.gif">
-  <img src="demo/video-6-2.gif">
-  <img src="demo/video-6-3.gif">
-  <img src="demo/video-6-4.gif"><br/>
-  <img src="demo/video-7-1.gif">
-  <img src="demo/video-7-2.gif">
-  <img src="demo/video-7-3.gif">
-  <img src="demo/video-7-4.gif"><br/>
-  <img src="demo/video-8-1.gif">
-  <img src="demo/video-8-2.gif">
-  <img src="demo/video-8-3.gif">
-  <img src="demo/video-8-4.gif"><br/>
+  <img src="demo/video-1-1.gif" width="200">
+  <img src="demo/video-1-2.gif" width="200">
+  <img src="demo/video-1-3.gif" width="200">
+  <img src="demo/video-1-4.gif" width="200"><br/>
+  <img src="demo/video-2-1.gif" width="200">
+  <img src="demo/video-2-2.gif" width="200">
+  <img src="demo/video-2-3.gif" width="200">
+  <img src="demo/video-2-4.gif" width="200"><br/>
+  <img src="demo/video-3-1.gif" width="200">
+  <img src="demo/video-3-2.gif" width="200">
+  <img src="demo/video-3-3.gif" width="200">
+  <img src="demo/video-3-4.gif" width="200"><br/>
+  <img src="demo/video-4-1.gif" width="200">
+  <img src="demo/video-4-2.gif" width="200">
+  <img src="demo/video-4-3.gif" width="200">
+  <img src="demo/video-4-4.gif" width="200"><br/>
+  <img src="demo/video-5-1.gif" width="200">
+  <img src="demo/video-5-2.gif" width="200">
+  <img src="demo/video-5-3.gif" width="200">
+  <img src="demo/video-5-4.gif" width="200"><br/>
+  <img src="demo/video-6-1.gif" width="200">
+  <img src="demo/video-6-2.gif" width="200">
+  <img src="demo/video-6-3.gif" width="200">
+  <img src="demo/video-6-4.gif" width="200"><br/>
+  <img src="demo/video-7-1.gif" width="200">
+  <img src="demo/video-7-2.gif" width="200">
+  <img src="demo/video-7-3.gif" width="200">
+  <img src="demo/video-7-4.gif" width="200"><br/>
+  <img src="demo/video-8-1.gif" width="200">
+  <img src="demo/video-8-2.gif" width="200">
+  <img src="demo/video-8-3.gif" width="200">
+  <img src="demo/video-8-4.gif" width="200"><br/>
   <i>Sample results</i>
 </p>
 
