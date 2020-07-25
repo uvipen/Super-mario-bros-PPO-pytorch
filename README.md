@@ -23,8 +23,7 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <img src="demo/video-3-4.gif" width="200"><br/>
   <img src="demo/video-4-1.gif" width="200">
   <img src="demo/video-4-2.gif" width="200">
-  <img src="demo/video-4-3.gif" width="200">
-  <img src="demo/video-4-4.gif" width="200"><br/>
+  <img src="demo/video-4-3.gif" width="200"><br/>
   <img src="demo/video-5-1.gif" width="200">
   <img src="demo/video-5-2.gif" width="200">
   <img src="demo/video-5-3.gif" width="200">
@@ -35,8 +34,7 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <img src="demo/video-6-4.gif" width="200"><br/>
   <img src="demo/video-7-1.gif" width="200">
   <img src="demo/video-7-2.gif" width="200">
-  <img src="demo/video-7-3.gif" width="200">
-  <img src="demo/video-7-4.gif" width="200"><br/>
+  <img src="demo/video-7-3.gif" width="200"><br/>
   <img src="demo/video-8-1.gif" width="200">
   <img src="demo/video-8-2.gif" width="200">
   <img src="demo/video-8-3.gif" width="200"><br/>
