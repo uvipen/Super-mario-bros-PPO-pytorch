@@ -4,7 +4,7 @@
 
 Here is my python source code for training an agent to play super mario bros. By using Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
 
-Talking about performance, my PPO-trained agent could complete 29/32 levels, which is much better than what I expected at the beginning. 
+Talking about performance, my PPO-trained agent could complete 31/32 levels, which is much better than what I expected at the beginning. 
 
 For your information, PPO is the algorithm proposed by OpenAI and used for training OpenAI Five, which is the first AI to beat the world champions in an esports game. Specifically, The OpenAI Five dispatched a team of casters and ex-pros with MMR rankings in the 99.95th percentile of Dota 2 players in August 2018.
 
@@ -23,7 +23,8 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <img src="demo/video-3-4.gif" width="200"><br/>
   <img src="demo/video-4-1.gif" width="200">
   <img src="demo/video-4-2.gif" width="200">
-  <img src="demo/video-4-3.gif" width="200"><br/>
+  <img src="demo/video-4-3.gif" width="200">
+  <img src="demo/video-4-4.gif" width="200"><br/>
   <img src="demo/video-5-1.gif" width="200">
   <img src="demo/video-5-2.gif" width="200">
   <img src="demo/video-5-3.gif" width="200">
@@ -34,7 +35,8 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <img src="demo/video-6-4.gif" width="200"><br/>
   <img src="demo/video-7-1.gif" width="200">
   <img src="demo/video-7-2.gif" width="200">
-  <img src="demo/video-7-3.gif" width="200"><br/>
+  <img src="demo/video-7-3.gif" width="200">
+  <img src="demo/video-7-4.gif" width="200"><br/>
   <img src="demo/video-8-1.gif" width="200">
   <img src="demo/video-8-2.gif" width="200">
   <img src="demo/video-8-3.gif" width="200"><br/>
@@ -75,6 +77,6 @@ Then inside docker container, you could simply run **train.py** or **test.py** s
 
 **Note**: There is a bug for rendering when using docker. Therefore, when you train or test by using docker, please comment line `env.render()` on script **src/process.py** for training or **test.py** for test. Then, you will not be able to see the window pop up for visualization anymore. But it is not a big problem, since the training process will still run, and the test process will end up with an output mp4 file for visualization
 
-## Why there are still 3 levels missing?
+## Why there is still level 8-4 missing?
 
-In world 4-4, 7-4 and 8-4, map consists of puzzles where the player must choose the correct the path in order to move forward. If you choose a wrong path, you have to go through path you visited again. That's why my agent at the moment can not complete these 3 levels
+In world 4-4, 7-4 and 8-4, map consists of puzzles where the player must choose the correct the path in order to move forward. If you choose a wrong path, you have to go through path you visited again. With some hardcore setting for the environment, the first 2 levels are solved. But the last level has not been solved yet.
