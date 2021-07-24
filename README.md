@@ -57,7 +57,7 @@ With my code, you can:
 * **Train your model** by running `python train.py`. For example: `python train.py --world 5 --stage 2 --lr 1e-4`
 * **Test your trained model** by running `python test.py`. For example: `python test.py --world 5 --stage 2`
 
-**Note**: If you got stuck at any level, try training again with different **learning rates**. You could conquer 29/32 levels like what I did, by changing only **learning rate**. Normally I set **learning rate** as **1e-3**, **1e-4** or **1e-5**. However, there are some difficult levels, including level **1-3**, in which I finally trained successfully with **learning rate** of **7e-5** after failed for 70 times.
+**Note**: If you got stuck at any level, try training again with different **learning rates**. You could conquer 31/32 levels like what I did, by changing only **learning rate**. Normally I set **learning rate** as **1e-3**, **1e-4** or **1e-5**. However, there are some difficult levels, including level **1-3**, in which I finally trained successfully with **learning rate** of **7e-5** after failed for 70 times.
 
 ## Docker
 
